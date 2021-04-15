@@ -1,0 +1,1 @@
+# getRipped-v1_cordova
